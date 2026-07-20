@@ -18,5 +18,3 @@ streamlit run app.py You will need an OpenAI API Key to generate answers.
 🌐 Deployed App
 👉 Click here to access the app (replace with your Streamlit app link)
 
-⚠️ Note
-If you exceed your OpenAI quota, you can use a dummy response to test the app UI.
