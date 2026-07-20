@@ -14,7 +14,3 @@ pip install -r requirements.txt
 Run the app locally using:
 
 streamlit run app.py You will need an OpenAI API Key to generate answers.
-
-🌐 Deployed App
-👉 Click here to access the app (replace with your Streamlit app link)
-
